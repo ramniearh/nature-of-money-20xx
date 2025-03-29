@@ -1,0 +1,28 @@
+{
+    "id": "F090F98F",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1742924731573.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "28c4abfee25b4b7a86b00e95789284cf",
+        "name": "net",
+        "title": "net",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1742924731573,
+    "read_only": false,
+    "read_only_alternatives": []
+}

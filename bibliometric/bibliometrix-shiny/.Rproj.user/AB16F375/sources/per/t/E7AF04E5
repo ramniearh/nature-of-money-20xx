@@ -1,0 +1,27 @@
+{
+    "id": "E7AF04E5",
+    "path": "~/GitHub/nature-of-money-20xx/bibliometric/bibliometrix-shiny/launch.R",
+    "project_path": "launch.R",
+    "type": "r_source",
+    "hash": "3318205692",
+    "contents": "",
+    "dirty": false,
+    "created": 1742922432248.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "39,20",
+        "scrollLine": "27"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1743014548,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1743014548431,
+    "read_only": false,
+    "read_only_alternatives": []
+}
